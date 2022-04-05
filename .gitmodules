@@ -1,0 +1,3 @@
+[submodule "src/compy/libasr"]
+	path = src/compy/libasr
+	url = https://github.com/ComPy-Lang/libasr.git
