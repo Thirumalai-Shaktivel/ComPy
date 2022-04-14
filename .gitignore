@@ -1,0 +1,36 @@
+## CMake
+CMakeCache.txt
+CMakeFiles/
+Makefile
+CTestTestfile.cmake
+cmake_install.cmake
+install_manifest.txt
+Testing/Temporary
+CPackConfig.cmake
+CPackSourceConfig.cmake
+_CPack_Packages
+/CMakeSettings.json
+
+## Generated files
+version
+src/libasr/config.h
+src/libasr/asr.h
+src/bin/compy
+inst/*
+
+## libraries
+*.a
+*.so
+*.s
+*.ll
+*.dylib
+*.dSYM
+
+## Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+## Editor Files
+.vscode/
+.vs/
